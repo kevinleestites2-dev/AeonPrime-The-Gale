@@ -2,25 +2,20 @@
 
 **The High-Velocity Signal Orchestrator of the Pantheon.**
 
-AeonPrime is a High-Performance Intelligence Swarm built on aggressive "Speed" libraries. It fuses the zero-overhead instantiation of **PraisonAI** with the sub-millisecond pulse of **FastAgency/NATS**.
+## 🌌 Architecture
+AeonPrime is built for one purpose: **Outrunning the Noise.** It uses a high-concurrency swarm to harvest, refine, and expel Pure Signal at sub-millisecond internal latencies.
 
-## ⚡ Performance
-- **1,000-Agent Burst:** < 0.5ms
-- **Per-Agent Instantiation:** < 0.5μs
-- **Cycle Velocity:** < 0.15ms
+### The Stack
+- **Execution:** PraisonAI Swarm (Adaptive agentic execution).
+- **Communication:** NATS Pulse (High-throughput distributed messaging).
+- **Persistence:** Meilisearch (Sub-millisecond signal retrieval).
+- **Stealth:** GhostLayer (Timing randomization & fingerprint protection).
 
-## 🧬 DNA
-- **Execution Layer:** PraisonAI Agents (Zero-overhead instantiation).
-- **Messaging Layer:** FastAgency + NATS Pulse (Sub-millisecond distributed bus).
-- **Retrieval Layer:** Meilisearch (High-speed signal extraction).
-- **Stealth Layer:** GhostPrime (Timing randomization & fingerprint protection).
-
-## 🚀 Usage
-The Gale is designed for high-frequency signal harvesting and autonomous swarm execution.
-
-```python
-# Coming soon: AeonPrime CLI
-```
+## 🧬 Core Logic
+1. **The Harvester:** Parallel agents targeting GovDeals, GSA, and local auction feeds.
+2. **The Vortex:** Real-time refining of raw data into "Pure Signal."
+3. **The Pulse:** Expelling refined opportunities to the Pantheon Primes.
 
 ---
-**Forgemaster's Mandate:** "Signal over Noise. Speed is the only Moat."
+**Status:** Alpha Prototype — Architecture Locked.
+**Mandate:** "Signal over Noise. Real-world performance > Benchmarks."
