@@ -1,4 +1,3 @@
-eth-account
-web3
-requests
-python-dotenv
+asyncio
+nats-py
+fastagency
